@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "problemMatcher": [
+                "$go"
+            ],
+            "group": "build",
+            "label": "build"
+        }
+    ]
+}
